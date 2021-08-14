@@ -1,2 +1,6 @@
 # PDF-READER
-tired of reading pdf on screen? Here is a solution... Now you don't have to read pdf by your own python will do this for you. Using only 2 packages in python this is possible. packages are 1. pyttsx3 2. PyPDF2
+PDF reader is text-to-speech conversion of written text into spoken voice.
+It is used for reading PDF or any text. Without staring at screen you can listen your PDF either from starting of PDF or from specific page. PDF reader use two libraries to read pdf 
+1. PyPDF2
+2. pyttsx3
+

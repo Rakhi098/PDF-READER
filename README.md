@@ -1,6 +1,7 @@
 # PDF-READER
 PDF reader is text-to-speech conversion of written text into spoken voice.
-It is used for reading PDF or any text. Without staring at screen you can listen your PDF either from starting of PDF or from specific page. PDF reader use two libraries to read pdf 
+It is used for reading PDF or any text. Without staring at screen you can listen your PDF either from starting of PDF or from specific page. PDF reader use two libraries to read pdf.
+
 **1. PyPDF2**: A Pure-Python library built as a PDF toolkit. It is capable of:
 extracting document information (title, author, …)
 splitting documents page by page
